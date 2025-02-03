@@ -1,4 +1,4 @@
-# Event and Contribution Extractor
+# indico2csv
 
 This script is designed to extract event and contribution details from conference agendas hosted on platforms like **INFN's Indico agenda** and save them into a structured CSV file.
 
